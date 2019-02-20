@@ -1,2 +1,0 @@
-# Mydruj
-Created with CodeSandbox
